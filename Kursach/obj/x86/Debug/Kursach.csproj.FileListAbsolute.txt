@@ -1,0 +1,294 @@
+D:\KURSOVAYA 2015\Kursach\Kursach\bin\Debug\Kursach.exe
+D:\KURSOVAYA 2015\Kursach\Kursach\bin\Debug\Kursach.pdb
+D:\KURSOVAYA 2015\Kursach\Kursach\obj\x86\Debug\Kursach.Form1.resources
+D:\KURSOVAYA 2015\Kursach\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+D:\KURSOVAYA 2015\Kursach\Kursach\obj\x86\Debug\Kursach.csproj.GenerateResource.Cache
+D:\KURSOVAYA 2015\Kursach\Kursach\obj\x86\Debug\Kursach.exe
+D:\KURSOVAYA 2015\Kursach\Kursach\obj\x86\Debug\Kursach.pdb
+D:\KURSOVAYA 2015\Kursach\Kursach\obj\x86\Debug\Kursach.csprojResolveAssemblyReference.cache
+D:\KURSOVAYA 2015\Kursach\Kursach\obj\x86\Debug\Kursach.Form2.resources
+D:\KURSOVAYA 2015\Kursach\Kursach\obj\x86\Debug\Kursach.Form3.resources
+D:\KURSOVAYA 2015\Kursach\Kursach\bin\Debug\Kursach.exe.config
+D:\KURSOVAYA 2015\Kursach\Kursach\obj\x86\Debug\Kursach.Form4.resources
+D:\KURSOVAYA 2015\Kursach\Kursach\obj\x86\Debug\Kursach.Form5.resources
+D:\KURSOVAYA 2015\Kursach\Kursach\obj\x86\Debug\Kursach.Form6.resources
+G:\Kursovaya\Kursach\Kursach\bin\Debug\Kursach.exe.config
+G:\Kursovaya\Kursach\Kursach\obj\x86\Debug\Kursach.exe
+G:\Kursovaya\Kursach\Kursach\obj\x86\Debug\Kursach.pdb
+G:\Kursovaya\Kursach\Kursach\bin\Debug\Kursach.exe
+G:\Kursovaya\Kursach\Kursach\bin\Debug\Kursach.pdb
+G:\Kursovaya\Kursach\Kursach\obj\x86\Debug\Kursach.csprojResolveAssemblyReference.cache
+G:\Kursovaya\Kursach\Kursach\obj\x86\Debug\Kursach.Form1.resources
+G:\Kursovaya\Kursach\Kursach\obj\x86\Debug\Kursach.Form2.resources
+G:\Kursovaya\Kursach\Kursach\obj\x86\Debug\Kursach.Form3.resources
+G:\Kursovaya\Kursach\Kursach\obj\x86\Debug\Kursach.Form4.resources
+G:\Kursovaya\Kursach\Kursach\obj\x86\Debug\Kursach.Form5.resources
+G:\Kursovaya\Kursach\Kursach\obj\x86\Debug\Kursach.Form6.resources
+G:\Kursovaya\Kursach\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+G:\Kursovaya\Kursach\Kursach\obj\x86\Debug\Kursach.csproj.GenerateResource.Cache
+D:\KURSOVAYA 2015\Kursach - копия (2)\Kursach\bin\Debug\Kursach.exe.config
+D:\KURSOVAYA 2015\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.exe
+D:\KURSOVAYA 2015\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.pdb
+D:\KURSOVAYA 2015\Kursach - копия (2)\Kursach\bin\Debug\Kursach.exe
+D:\KURSOVAYA 2015\Kursach - копия (2)\Kursach\bin\Debug\Kursach.pdb
+D:\KURSOVAYA 2015\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form1.resources
+D:\KURSOVAYA 2015\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form2.resources
+D:\KURSOVAYA 2015\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form3.resources
+D:\KURSOVAYA 2015\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form4.resources
+D:\KURSOVAYA 2015\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form5.resources
+D:\KURSOVAYA 2015\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form6.resources
+D:\KURSOVAYA 2015\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+D:\KURSOVAYA 2015\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.csproj.GenerateResource.Cache
+G:\Kursovaya\Kursach - копия (2)\Kursach\bin\Debug\Kursach.exe.config
+G:\Kursovaya\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.exe
+G:\Kursovaya\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.pdb
+G:\Kursovaya\Kursach - копия (2)\Kursach\bin\Debug\Kursach.exe
+G:\Kursovaya\Kursach - копия (2)\Kursach\bin\Debug\Kursach.pdb
+G:\Kursovaya\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form1.resources
+G:\Kursovaya\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form2.resources
+G:\Kursovaya\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form3.resources
+G:\Kursovaya\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form4.resources
+G:\Kursovaya\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form5.resources
+G:\Kursovaya\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form6.resources
+G:\Kursovaya\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+G:\Kursovaya\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.csproj.GenerateResource.Cache
+D:\KURSOVAYA 2015\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.csprojResolveAssemblyReference.cache
+G:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\bin\Debug\Kursach.exe.config
+G:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.exe
+G:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.pdb
+G:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\bin\Debug\Kursach.exe
+G:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\bin\Debug\Kursach.pdb
+G:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form1.resources
+G:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form2.resources
+G:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form3.resources
+G:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form4.resources
+G:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form5.resources
+G:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form6.resources
+G:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+G:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form8.resources
+F:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\bin\Debug\Kursach.exe.config
+F:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.exe
+F:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.pdb
+F:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\bin\Debug\Kursach.exe
+F:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\bin\Debug\Kursach.pdb
+F:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.csprojResolveAssemblyReference.cache
+F:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form1.resources
+F:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form2.resources
+F:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form3.resources
+F:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form4.resources
+F:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form5.resources
+F:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form6.resources
+F:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form8.resources
+F:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+F:\!!!!Курасач 4 курс\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.csproj.GenerateResource.Cache
+G:\Kursach - копия (2)\Kursach\bin\Debug\Kursach.exe.config
+G:\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.exe
+G:\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.pdb
+D:\College\rpz1229\Kursach - копия (2)\Kursach\bin\Debug\Kursach.exe.config
+D:\College\rpz1229\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.exe
+D:\College\rpz1229\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.pdb
+D:\College\rpz1229\Kursach - копия (2)\Kursach\bin\Debug\Kursach.exe
+D:\College\rpz1229\Kursach - копия (2)\Kursach\bin\Debug\Kursach.pdb
+D:\College\rpz1229\Kursach - копия (2)\Kursach\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\College\rpz1229\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form1.resources
+D:\College\rpz1229\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form2.resources
+D:\College\rpz1229\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form3.resources
+D:\College\rpz1229\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form4.resources
+D:\College\rpz1229\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form5.resources
+D:\College\rpz1229\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form6.resources
+D:\College\rpz1229\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form8.resources
+D:\College\rpz1229\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+D:\College\rpz1229\Kursach - копия (2)\Kursach\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\College\rpz1229\Kursach - копия (2)\Kursach\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Kursach - копия (2)\Kursach\bin\Debug\Kursach.exe
+G:\Kursach - копия (2)\Kursach\bin\Debug\Kursach.pdb
+G:\Kursach - копия (2)\Kursach\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form1.resources
+G:\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form2.resources
+G:\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form3.resources
+G:\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form4.resources
+G:\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form5.resources
+G:\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form6.resources
+G:\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form8.resources
+G:\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+G:\Kursach - копия (2)\Kursach\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Kursach - копия (2)\Kursach\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VAJNOE\Kursach - копия (2)\Kursach\bin\Debug\Kursach.exe.config
+D:\VAJNOE\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.exe
+D:\VAJNOE\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.pdb
+D:\VAJNOE\Kursach - копия (2)\Kursach\bin\Debug\Kursach.exe
+D:\VAJNOE\Kursach - копия (2)\Kursach\bin\Debug\Kursach.pdb
+D:\VAJNOE\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.csprojResolveAssemblyReference.cache
+D:\VAJNOE\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form1.resources
+D:\VAJNOE\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form2.resources
+D:\VAJNOE\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form3.resources
+D:\VAJNOE\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form4.resources
+D:\VAJNOE\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form5.resources
+D:\VAJNOE\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form6.resources
+D:\VAJNOE\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Form8.resources
+D:\VAJNOE\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+D:\VAJNOE\Kursach - копия (2)\Kursach\obj\x86\Debug\Kursach.csproj.GenerateResource.Cache
+D:\College\rpz1229\Kursach - копия (2) - копия\Kursach\bin\Debug\Kursach.exe.config
+D:\College\rpz1229\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.exe
+D:\College\rpz1229\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.pdb
+D:\College\rpz1229\Kursach - копия (2) - копия\Kursach\bin\Debug\Kursach.exe
+D:\College\rpz1229\Kursach - копия (2) - копия\Kursach\bin\Debug\Kursach.pdb
+D:\College\rpz1229\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\College\rpz1229\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.Form1.resources
+D:\College\rpz1229\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.Form2.resources
+D:\College\rpz1229\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.Form3.resources
+D:\College\rpz1229\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.Form4.resources
+D:\College\rpz1229\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.Form5.resources
+D:\College\rpz1229\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.Form6.resources
+D:\College\rpz1229\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.Form8.resources
+D:\College\rpz1229\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+D:\College\rpz1229\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\College\rpz1229\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия\Kursach\bin\Debug\Kursach.exe.config
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.exe
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.pdb
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия\Kursach\bin\Debug\Kursach.exe
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия\Kursach\bin\Debug\Kursach.pdb
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.csprojResolveAssemblyReference.cache
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.Form1.resources
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.Form2.resources
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.Form3.resources
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.Form4.resources
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.Form5.resources
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.Form6.resources
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.Form8.resources
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия\Kursach\obj\x86\Debug\Kursach.csproj.GenerateResource.Cache
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия - копия\Kursach\bin\Debug\Kursach.exe.config
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.exe
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.pdb
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия - копия\Kursach\bin\Debug\Kursach.exe
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия - копия\Kursach\bin\Debug\Kursach.pdb
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.csprojResolveAssemblyReference.cache
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form1.resources
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form2.resources
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form3.resources
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form4.resources
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form5.resources
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form6.resources
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form8.resources
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+D:\VAJNOE\Новая папка\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.csproj.GenerateResource.Cache
+G:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\bin\Debug\Kursach.exe.config
+G:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.exe
+G:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.pdb
+G:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\bin\Debug\Kursach.exe
+G:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\bin\Debug\Kursach.pdb
+G:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form1.resources
+G:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form2.resources
+G:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form3.resources
+G:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form4.resources
+G:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form5.resources
+G:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form6.resources
+G:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form8.resources
+G:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+G:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\bin\Debug\Kursach.exe.config
+H:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.exe
+H:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.pdb
+D:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\bin\Debug\Kursach.exe.config
+D:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.exe
+D:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.pdb
+D:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\bin\Debug\Kursach.exe
+D:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\bin\Debug\Kursach.pdb
+D:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.csprojResolveAssemblyReference.cache
+D:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form1.resources
+D:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form2.resources
+D:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form3.resources
+D:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form4.resources
+D:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form5.resources
+D:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form6.resources
+D:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Form8.resources
+D:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+D:\DIPLOM\Kursach - копия (2) - копия - копия\Kursach\obj\x86\Debug\Kursach.csproj.GenerateResource.Cache
+H:\DIPLOM\Pochti\Kursach\bin\Debug\Kursach.exe.config
+H:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.exe
+H:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.pdb
+H:\DIPLOM\Pochti\Kursach\bin\Debug\Kursach.exe
+H:\DIPLOM\Pochti\Kursach\bin\Debug\Kursach.pdb
+H:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.csprojResolveAssemblyReference.cache
+H:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.Form1.resources
+H:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.Form2.resources
+H:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.Form3.resources
+H:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.Form4.resources
+H:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.Form5.resources
+H:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.Form6.resources
+H:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.Form8.resources
+H:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+H:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.csproj.GenerateResource.Cache
+G:\DIPLOM\Pochti\Kursach\bin\Debug\Kursach.exe.config
+G:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.exe
+G:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.pdb
+G:\DIPLOM\Pochti\Kursach\bin\Debug\Kursach.exe
+G:\DIPLOM\Pochti\Kursach\bin\Debug\Kursach.pdb
+G:\DIPLOM\Pochti\Kursach\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.Form1.resources
+G:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.Form2.resources
+G:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.Form3.resources
+G:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.Form4.resources
+G:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.Form5.resources
+G:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.Form6.resources
+G:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.Form8.resources
+G:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+G:\DIPLOM\Pochti\Kursach\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\DIPLOM\Pochti\Kursach\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\DIPLOM\Pochti\Kursach\obj\x86\Debug\Kursach.Form9.resources
+D:\DIPLOM\diplom\Kursach\bin\Debug\Kursach.exe.config
+D:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.exe
+D:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.pdb
+D:\DIPLOM\diplom\Kursach\bin\Debug\Kursach.exe
+D:\DIPLOM\diplom\Kursach\bin\Debug\Kursach.pdb
+D:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.csprojResolveAssemblyReference.cache
+D:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.Form1.resources
+D:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.Form2.resources
+D:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.Form3.resources
+D:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.Form4.resources
+D:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.Form5.resources
+D:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.Form6.resources
+D:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.Form8.resources
+D:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.Form9.resources
+D:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+D:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.csproj.GenerateResource.Cache
+H:\DIPLOM\diplom\Kursach\bin\Debug\Kursach.exe.config
+H:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.exe
+H:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.pdb
+H:\DIPLOM\diplom\Kursach\bin\Debug\Kursach.exe
+H:\DIPLOM\diplom\Kursach\bin\Debug\Kursach.pdb
+H:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.csprojResolveAssemblyReference.cache
+H:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.Form1.resources
+H:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.Form2.resources
+H:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.Form3.resources
+H:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.Form4.resources
+H:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.Form5.resources
+H:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.Form6.resources
+H:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.Form8.resources
+H:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.Form9.resources
+H:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+H:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.csproj.GenerateResource.Cache
+G:\DIPLOM\diplom\Kursach\bin\Debug\Kursach.exe.config
+G:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.exe
+G:\DIPLOM\diplom\Kursach\obj\x86\Debug\Kursach.pdb
+F:\DIPLOM\Копия diplom - копия\Kursach\bin\Debug\Kursach.exe.config
+F:\DIPLOM\Копия diplom - копия\Kursach\obj\x86\Debug\Kursach.exe
+F:\DIPLOM\Копия diplom - копия\Kursach\obj\x86\Debug\Kursach.pdb
+F:\DIPLOM\Копия diplom - копия\Kursach\obj\x86\Debug\Kursach.csprojResolveAssemblyReference.cache
+F:\DIPLOM\Копия diplom - копия\Kursach\obj\x86\Debug\Kursach.Form1.resources
+F:\DIPLOM\Копия diplom - копия\Kursach\obj\x86\Debug\Kursach.Form2.resources
+F:\DIPLOM\Копия diplom - копия\Kursach\obj\x86\Debug\Kursach.Form3.resources
+F:\DIPLOM\Копия diplom - копия\Kursach\obj\x86\Debug\Kursach.Form4.resources
+F:\DIPLOM\Копия diplom - копия\Kursach\obj\x86\Debug\Kursach.Form5.resources
+F:\DIPLOM\Копия diplom - копия\Kursach\obj\x86\Debug\Kursach.Form6.resources
+F:\DIPLOM\Копия diplom - копия\Kursach\obj\x86\Debug\Kursach.Form8.resources
+F:\DIPLOM\Копия diplom - копия\Kursach\obj\x86\Debug\Kursach.Form9.resources
+F:\DIPLOM\Копия diplom - копия\Kursach\obj\x86\Debug\Kursach.Properties.Resources.resources
+F:\DIPLOM\Копия diplom - копия\Kursach\obj\x86\Debug\Kursach.csproj.GenerateResource.Cache
